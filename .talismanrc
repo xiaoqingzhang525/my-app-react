@@ -1,0 +1,8 @@
+fileignoreconfig:
+- filename: src/react-app-env.d.ts
+  checksum: f0045b3f8905880e17671222a920193a34a64f59b0d5fe52d8829b8da70e50dd
+- filename: yarn.lock
+  checksum: 767d3314b8ba3704db6907a5b446c41b85bc439df6800040dee70127f0e48b6c
+scopeconfig:
+- scope: node
+threshold: medium
